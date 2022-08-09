@@ -14,7 +14,7 @@ Moovies is a project developed in group by:
 As ferramentas utilizadas nesse projeto foram:
 - [Vite](https://vitejs.dev/), para inicialização do projeto;
 - [React](https://pt-br.reactjs.org/), para criação da interface;
-- [Styled Component](https://styled-components.com/), para estilização;
+- [Styled Components](https://styled-components.com/), para estilização;
 - [Router Dom V.6](https://v6.reactrouter.com/), para roteamento;
 - [Axios](https://axios-http.com/docs/intro), para requisições HTTP;
 - [Eslint](https://eslint.org/), para padronização.
